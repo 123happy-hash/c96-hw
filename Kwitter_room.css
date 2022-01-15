@@ -1,0 +1,17 @@
+#logout_button{
+    float: right;
+    margin-right: 0%;
+}
+html, body
+{
+  height: 100%;
+  margin: 0;
+}
+
+body
+{
+  background-image: linear-gradient(to left top, #ff0000, #ff9100, #d9ff00, #33ff00, #002fff, #ae00ff, #4B0082);
+}
+#rinput{
+    width: 20%;
+}
